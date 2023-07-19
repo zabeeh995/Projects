@@ -1,0 +1,7 @@
+com/example/imagetogallery/MainActivity.java
+ com.example.imagetogallery.MainActivity
+ com.example.imagetogallery.MainActivity$1
+ com.example.imagetogallery.MainActivity$2
+ com.example.imagetogallery.MainActivity$3
+com/example/imagetogallery/BuildConfig.java
+ com.example.imagetogallery.BuildConfig

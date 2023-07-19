@@ -1,0 +1,5 @@
+com/example/facedetectionapp/MainActivity.java
+ com.example.facedetectionapp.MainActivity
+ com.example.facedetectionapp.MainActivity$1
+com/example/facedetectionapp/BuildConfig.java
+ com.example.facedetectionapp.BuildConfig

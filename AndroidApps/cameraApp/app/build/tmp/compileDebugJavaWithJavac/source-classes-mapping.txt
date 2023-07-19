@@ -1,0 +1,4 @@
+com/example/CameraToGallery/BuildConfig.java
+ com.example.CameraToGallery.BuildConfig
+com/example/CameraToGallery/MainActivity.java
+ com.example.CameraToGallery.MainActivity

@@ -1,0 +1,17 @@
+com/example/notes/BuildConfig.java
+ com.example.notes.BuildConfig
+com/example/notes/NoteDatabase.java
+ com.example.notes.NoteDatabase
+com/example/notes/MainActivity.java
+ com.example.notes.MainActivity
+ com.example.notes.MainActivity$1
+com/example/notes/NoteActivity.java
+ com.example.notes.NoteActivity
+com/example/notes/Note.java
+ com.example.notes.Note
+com/example/notes/NotesAdapter.java
+ com.example.notes.NotesAdapter
+ com.example.notes.NotesAdapter$NoteViewHolder
+ com.example.notes.NotesAdapter$NoteViewHolder$1
+com/example/notes/NoteDao.java
+ com.example.notes.NoteDao

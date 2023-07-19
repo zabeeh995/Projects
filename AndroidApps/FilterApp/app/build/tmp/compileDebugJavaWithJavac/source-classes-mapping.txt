@@ -1,0 +1,6 @@
+com/example/filterapp/BuildConfig.java
+ com.example.filterapp.BuildConfig
+com/example/filterapp/MainActivity.java
+ com.example.filterapp.MainActivity
+ com.example.filterapp.MainActivity$1
+ com.example.filterapp.MainActivity$2

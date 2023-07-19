@@ -1,0 +1,7 @@
+#Mon Sep 20 01:26:21 PDT 2021
+base.1=C\:\\Users\\Zabeeh Ullah Noor\\AndroidStudio previous\\AndroidStudioProjects\\List & Reccycler view\\Notes\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\Zabeeh Ullah Noor\\AndroidStudio previous\\AndroidStudioProjects\\List & Reccycler view\\Notes\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
